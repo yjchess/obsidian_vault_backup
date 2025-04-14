@@ -1,7 +1,3 @@
----
-title: "An Extendable Obsidian Publish alternative using Next.JS"
-excerpt: "Create your own template or use someone else's. Changing the template is a matter of updating one line"
----
 Ok, so I've decided to write these questions in order for me to finally get over this hump. Legit no idea why my brain's made it so hard but yeah:
 
 <h2>What is a handler and how it works</h2>
