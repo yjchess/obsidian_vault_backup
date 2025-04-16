@@ -1,5 +1,5 @@
 1. `b1+2 df2 f2 f31 RDS 12 dash uf4D ws4  76dmg
-2. b1+2 df2 f2 f31 RDS 12 hyp 3,4 Ff4 , hyp 2
+2. `b1+2 df2 f2 f31 RDS 12 hyp 3,4 Ff4 , hyp 2
 3. `ub3 - UF4 f2 f31 rds 12 uf4D ws4 
 4. `ub3 AOP uf4 f2 f31 rds 12 dash db1+2 HYP3+4 dash d1 neutral 4`
 5. uf3 4 f31 rds 12 uf4D ws4 
