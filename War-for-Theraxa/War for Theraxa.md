@@ -35,34 +35,53 @@ kanban-plugin: board
 	- upgrades
 - [ ] Undead
 	
+	Lich King
+	- Necromancer
+	- Death knight
+	- Vampire Assasin
+	
 	Necromancer
-	- skeleton warrior
-	- skeleton archer
+	- ghoul
+	- gargoyle
+	- evil wizard
+	
+	Evil wizard
+	- skeleton_warrior
+	- skeleton_archer
+	- goblin_slave
 	
 	Undead Stables
 	- undead cav warrior
 	- undead cav archer
+	- wolf raider
+	- wolf archer
 	
 	Creature Prison
 	- Goblin Slave
-	- Troll
+	- Troll Slave
+	- Mind-Controlled Brute
 	
-	Lich King
-	- Necromancer
-	- Goblin Slave
-	- Evil Wizard
+	Wizard Tower
+	- upgrades(flat)
+	- upgrades(skills)
 
 
 ## Planned
 
+- [ ] ## bugs
+	
+	- description sometimes not showing full message
 - [ ] <b><font size = 4>Refactor level Two.gd</font></b>
 	<font size = 3 color = aqua>
 	<ol>
-		<li>extend Level</li>
-		<li>in init() replace buildings + units</li>
-		<li>Fix Dialogue </li> 
-		<li>Fix Achievements</li> 
+		<li>Add Dialogue for endings + Choices</li> 
+		<li>Fix Achievements</li>
+		<li>Allow Dialogue to delay the computer's turn</li> 
+		<li>Store Resources in autoload </li>
 	</ol>
+- [ ] Small TODOs
+	
+	1. Evil Wizard Unit
 
 
 ## In Progress
@@ -165,8 +184,21 @@ kanban-plugin: board
 		<li>extend Level</li>
 		<li>in init() replace buildings + units</li>
 		<li>Fix Dialogue </li> 
-		<li>Fix Achievements</li> 
+		<li>Fix Grinkle Behaviour (no spells)</li>
+		<li>Fix Ghoul Behaviour - Line up at forest entrance behind Lord Montague</li>
 	</ol>
+- [ ] ## Finish Randomized Maps for PvE
+	
+	1. Add PvE to Campaign Menu
+	2. Add Portraits for:
+		1. King
+		2. Queen
+		3. Golem
+		4. Cavlary_warrior
+	3. Fix Description Error
+	4. Fix Minimap Error
+	5. Improve square_selection for randomized troops
+	6. Implement Golem Damage Absorption Ability
 
 
 ***

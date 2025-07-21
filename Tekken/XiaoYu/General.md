@@ -90,3 +90,26 @@ Wall splat
 6. CH AOP 1+2 > WS2* > f3,1 > d3,4 > dash > ub3 > uf,n,3 > dash > f2 > heat burst > dash> 1,2 W! > f2,1,2 > ub4
     
     I suggest try it on the beach stage
+
+
+
+![[Pasted image 20250418201211.png]]
+![[Pasted image 20250424012330.png]]
+
+
+1. you dont use hyp mixup on oki
+    you could relaunch me on wake up
+    you dont use cancels
+    u dont do mental tech, like pressure from RDS, you alway do RDS3,4
+    few RDS2s
+    use heat at the wall, f2,1,2 into heatsmash and 3+4 ender
+
+2. you dont use aop much, it was mostly fff3 into aop1,2. I got you a few times with ss aopuf3, you should try it. Also aop3 is a ch tool, you never use it.
+    
+3. _[_11:40 PM_]_
+    
+    i didn't see you use fc df4 mixup it's very strong
+    
+4. _[_11:42 PM_]_
+    
+    fc df4 gets you in aop so you can follow up with aop 2,1 or aop1,2 when they duck to block a potential second low like fc df4,4.

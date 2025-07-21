@@ -52,7 +52,7 @@ u1+2 (on counterhit) 21
 ff1d AOP 21
 db4 (on counterhit) f1+2 OR b4,1 OR df2,3
 db3 (on counterhit) f1+2 OR b4,1 OR df2,3
-
+b3 (on counterhit) b1+2
 
 
 My XiaoYu combos:
@@ -67,6 +67,35 @@ My XiaoYu combos:
 8. Low parry df, b3, RDS 2, f 3+4 3+4, RDS 2, RDS 22,4
 9. HYP 4, ff3, rds d3, 4 , microdash, ub+3, uf,n,3, dash, df2, 1+2
 10. df3d ufn3 dash df2 f31 22 4
-11. AOP d1+2 b3, RDS 2, 2, 22, 4
+11. AOP d1+2, b3, RDS 1 RDS d34 dash ub3 dash aop ufn3 dash df2 1+2
+12. CH ws2~f df2 f2 f31 RDS 12 hyp 3,4 Ff4 , hyp 2
+13. CH ws2~b b3 2 f3+4 3+4 2 1 2 hyp 3 4 ff4  hyp 2
+14.  f2+3 throw - f31 rds 2 rds 12 T! ff3+4 ub4
+15. b2,2 CH, d34 dash f31 1 2 HYP 3+4 wr3 1+2
+16. b2,2 CH, d34 microdash, ub3, ufn3, dash df2, 1+2
+17. 3+4 CH db2 1 1 dash d3,4  2+3  dash ub3 ufn3 f212
+18. 3+4 CH db2 1 1 12  HYP 3+4 ff4 HYP 2 (80 damage)
+19. 3+4 CH df2 f2 f31 RDS 12 hyp 3,4 Ff4 , hyp 2
+20. b1b float ff3 d34 MICRODASH ub3 ufn3  DASH df2 1+2
+21. b1 float d4 ff3
+22. 
 
-No. 11 can be improved -idk the route yet will need to do more research
+
+square = 1
+triangle = 2
+x           = 3
+circle    = 4
+
+
+
+1. b1+2 df2 f2 f31 RDS 12 hyp 3,4 Ff4 , hyp 2
+
+b square + triangle
+df triangle
+f triangle
+f x square
+square triangle
+db square + triangle
+x + circle
+ff circle,
+triangle

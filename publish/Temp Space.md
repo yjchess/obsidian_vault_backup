@@ -44,3 +44,25 @@ In this way - I see that I need to build a submit_data function for:
 \*1 Does this mean that the ui_handler has to be loaded first after the current scene is loaded? Otherwise won't there be issues because all the children will have already entered the tree? Additionally, what if another handler needs to use data from the ui_handler? Or is there a way I can load all the handler scripts
 
 \*2 Is the default value i.e. nulls etc. supposed to signify that there hasn't been a change? i.e. does each update_ui function in the canvas_layer components have a section of code like if data\["variable_key"] == default_value: return ? Is this efficient though? As it means that for each ui_update it will run this line of code multiple times?
+
+
+
+# What are people's experiences using XR Glasses for work?
+
+[
+
+Discussion
+
+](https://www.reddit.com/r/virtualreality/?f=flair_name%3A%22Discussion%22)
+
+Hiya, so for a while now I've been considering purchasing some XR Glasses alongside a mini-pc so that I can be more productive when I'm outside (am an indie game developer). I think it might also be useful for my chronic pain (due to medical conditions) as I am hoping that I would be able to use them whilst lying down (I can touch type).
+
+However, I was hoping to see some discussion on the validity and practicality of using XR Glasses for such a purpose. I've already watched some video reviews and read some online reviews but am worried that these may be biased due to sponsorships etc. So was wondering for some more opinions?
+
+I had originally planned on purchasting the Viture Pro XR glasses after seeing that they had better audio and video quality as well as personally preferring the aesthetic. However, after reading and watching a few more reviews, I saw that some people were saying that the XReal One is a more comfier alternative that is more suited for long periods of work.
+
+I wonder what you guys' thoughts on this are? Is it a viable way to work? Which XR Glass would you recommend? And which one do you recommend out of the Viture Pro and the Xreal One? Or is there an alternative you would recommend?
+
+Also random sidequestion - is there perhaps a very budget XR Glasses that I could consider buying to get a feel of if it is a viable approach for me or not?
+
+For further context: am trying to obtain a portable comfortable setup of which I am capable of using as a second workstation for when im outside / needing to lie down due to chronic pain / when I'm on a trip to somewhere for a few days and it would be impractical to bring my full setup. Am hoping for XR Glasses + Mini PC (looking into the Ling Long Lunar Mini PC) as it would be a super lightweight portable solution.
