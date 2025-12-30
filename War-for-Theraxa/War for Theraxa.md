@@ -18,18 +18,40 @@ kanban-plugin: board
 	
 	Barracks
 	- warrior
+	- axeman 
+		- T2 Castle
+	- elite swordsman 
+		- T3 Castle
+	- paladin 
+		- T3 Castle, church, armory
 	
 	Archery Range
 	- archer
+	- crossbowman 
+		- T2 Castle
+	- ranged_specialist
+		- T3 Castle
+	- assassin 
+		- T3 Castle, library up, armory 
 	
 	Stables
 	- cav warrior
-	- cav archerr
+	- cav archer
+		- T2 Castle
+	- knight / ranged knight
+		- T3 Castle
+	- Griffin
+		- T3 Castle, library up, armory
 	
 	Castle
 	- Peasant
 	- Wizard
-	- Hero
+		- T2 Castle, library
+	- Heros
+	
+	Church
+	- priest
+	- priest upgrades
 	
 	Library
 	- upgrades
@@ -82,6 +104,16 @@ kanban-plugin: board
 - [ ] Small TODOs
 	
 	1. Evil Wizard Unit
+- [ ] <b><font size = 4>Refactor level Two.gd</font></b>
+	<font size = 3 color = aqua>
+	<ol>
+		<li>
+			<b>Ending 1a: </b>Saved the old man - killed grinkle via choice
+		</li>
+		<li>
+			<b color = red>Ending 1b:</b> Saved the old man - killed grinkle via action
+		</li>
+	</ol>
 
 
 ## In Progress

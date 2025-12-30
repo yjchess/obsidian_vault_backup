@@ -42,3 +42,18 @@ When an ability button is pressed:
 5. Map re-emits entity_ablilty to level which then gets the currently selected entity and uses the ability.
 6. The building / unit selected has a use_ability function which gets the ability and tells it to use it's own use_ability function
 7. the ability's use_ability function determines what kind of ability it is and emit's signal based off the typing.
+
+
+
+	emit_signal("ability_button_pressed", ability_name, ability_ui_type)
+
+
+[https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html")
+
+[https://neon.com/](https://neon.com/ "https://neon.com/") (postgres)
+
+[https://aws.amazon.com/startups/credits#hero](https://aws.amazon.com/startups/credits#hero "https://aws.amazon.com/startups/credits#hero")
+
+[https://upstash.com/pricing](https://upstash.com/pricing "https://upstash.com/pricing") redis
+
+![[Pasted image 20250908192654.png]]
